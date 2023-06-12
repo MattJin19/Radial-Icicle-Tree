@@ -1,12 +1,15 @@
 # Radial-Icicle-Tree (RIT)
 A brief tutorial for paper "Radial Icicle Tree (RIT): Node Separation and Area Constancy"
 
+The **Radial Icicle Tree (RIT)**, which transforms the rectangular bounding box of an icicle tree into a circle, circular sector, or annular sector
+while introducing gaps between nodes and maintaining area constancy for nodes of the same size. We applied this new visual design to some dataset. 
+
 ## Installation
 
-The code requires Python >= 3.8 
-NumPy: 1.19.5
-Matplotlib: 3.2.2
-Pandas: 1.1.5. 
+The code requires Python >= 3.8  
+NumPy: 1.19.5  
+Matplotlib: 3.2.2  
+Pandas: 1.1.5.  
 
 if not please use:
 '''
@@ -24,7 +27,7 @@ RIT code released under the Apache License 2.0. See [LICENSE](LICENSE) for addit
 
 ## Citing RIT
 
-If you find this repository useful, please consider giving a star :star: and citation :t-rex::
+If you find this repository useful, please consider giving a star :star: and citation:
 
 ```
 @misc{}
