@@ -2,7 +2,12 @@
 A brief tutorial for paper "Radial Icicle Tree (RIT): Node Separation and Area Constancy"
 
 The **Radial Icicle Tree (RIT)**, which transforms the rectangular bounding box of an icicle tree into a circle, circular sector, or annular sector
-while introducing gaps between nodes and maintaining area constancy for nodes of the same size. We applied this new visual design to some dataset. 
+while introducing gaps between nodes and maintaining area constancy for nodes of the same size. We applied this new visual design to some datasets. 
+
+Currently, we have made four tutorial files to illustrate the design ideas in the paper. T
+he Tutorial I document shows what a synthetic data looks like under the RIT diagram. 
+The Tutorial II document explains how to draw more layers of RIT on the basis of Tutorial I. 
+Tutorial III and Tutorial IV are the applications of RIT on two public datasets.
 
 ## Installation
 
