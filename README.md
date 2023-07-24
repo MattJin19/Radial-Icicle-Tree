@@ -36,5 +36,12 @@ RIT code released under the Apache License 2.0. See [LICENSE](LICENSE) for addit
 If you find this repository useful, please consider giving a star :star: and citation:
 
 ```
-@misc{}
+@misc{jin2023radial,
+      title={Radial Icicle Tree (RIT): Node Separation and Area Constancy}, 
+      author={Yuanzhe Jin and Tim J. A. de Jong and Martijn Tennekes and Min Chen},
+      year={2023},
+      eprint={2307.10481},
+      archivePrefix={arXiv},
+      primaryClass={cs.HC}
+}
 ```
