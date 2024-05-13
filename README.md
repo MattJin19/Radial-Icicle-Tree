@@ -31,7 +31,7 @@ The code can also be directly used in Google Colab.
 
 RIT code released under the Apache License 2.0. See [LICENSE](LICENSE) for additional details.
 
-## Citing RIT
+## Citing RIT ٩(๑>◡<๑)۶
 
 If you find this repository useful, please consider giving a star :star: and citation:
 
