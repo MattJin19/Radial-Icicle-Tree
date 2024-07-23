@@ -36,12 +36,22 @@ RIT code released under the Apache License 2.0. See [LICENSE](LICENSE) for addit
 If you find this repository useful, please consider giving a star :star: and citation:
 
 ```
-@misc{jin2023radial,
-      title={Radial Icicle Tree (RIT): Node Separation and Area Constancy}, 
-      author={Yuanzhe Jin and Tim J. A. de Jong and Martijn Tennekes and Min Chen},
-      year={2023},
-      eprint={2307.10481},
-      archivePrefix={arXiv},
-      primaryClass={cs.HC}
+@article{Jin:2023:VIS,
+author = {Jin, Yuanzhe and de Jong, Tim J. A. and Tennekes, Martijn and Chen, Min},
+title = {Radial Icicle Tree (RIT): Node Separation and Area Constancy},
+year = {2023},
+issue_date = {Jan. 2024},
+publisher = {IEEE Educational Activities Department},
+address = {USA},
+volume = {30},
+number = {1},
+issn = {1077-2626},
+url = {https://doi.org/10.1109/TVCG.2023.3327178},
+doi = {10.1109/TVCG.2023.3327178},
+abstract = {Icicles and sunbursts are two commonly-used visual representations of trees. While icicle trees can map data values faithfully to rectangles of different sizes, often some rectangles are too narrow to be noticed easily. When an icicle tree is transformed into a sunburst tree, the width of each rectangle becomes the length of an annular sector that is usually longer than the original width. While sunburst trees alleviate the problem of narrow rectangles in icicle trees, it no longer maintains the consistency of size encoding. At different tree depths, nodes of the same data values are displayed in annular sections of different sizes in a sunburst tree, though they are represented by rectangles of the same size in an icicle tree. Furthermore, two nodes from different subtrees could sometimes appear as a single node in both icicle trees and sunburst trees. In this paper, we propose a new visual representation, referred to as <italic>radial icicle tree</italic> (RIT), which transforms the rectangular bounding box of an icicle tree into a circle, circular sector, or annular sector while introducing gaps between nodes and maintaining area constancy for nodes of the same size. We applied the new visual design to several datasets. Both the analytical design process and user-centered evaluation have confirmed that this new design has improved the design of icicles and sunburst trees without introducing any relative demerit.},
+journal = {IEEE Transactions on Visualization and Computer Graphics},
+month = {oct},
+pages = {251–261},
+numpages = {11}
 }
 ```
