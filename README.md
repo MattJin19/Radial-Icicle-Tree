@@ -27,6 +27,27 @@ pip install pandas
 Recommend:
 The code can also be directly used in Google Colab.
 
+
+
+## Examples of Applications:
+In the paper, we used Titanic dataset, a well-known dataset containing demographic and survival information about passengers aboard the Titanic. This dataset has a hierarchical structure suitable for RIT visualization. The results can be found in the below:
+![image](images/titanic.png)
+
+This application showcases RIT’s potential for presenting structured datasets in a format that is both compact and perceptually informative.
+
+## Suggested Ideas to Collaborators:
+If you are a researcher (e.g., in digital humanities, cultural analytics, or human-computer interaction):  
+
+- Explore how RIT can support hierarchical analysis of cultural, historical, or any structured based dataset.
+
+- Collaborate on case studies that apply RIT to domain-specific datasets (e.g., literary character networks, historical timelines, etc.), and evaluate how radial layouts affect users' cognitive load and pattern recognition.
+
+If you are a developer(especially with a background in data visualization, digital archives, or humanities tool development):  
+- Integrate RIT into existing digital humanities platforms or visualization dashboards to enhance tree-based visual exploration.
+
+- Extend the current codebase with interactive features for exploration of hierarchical humanities datasets with many layers or nested categories.
+
+
 ## License
 
 RIT code released under the Apache License 2.0. See [LICENSE](LICENSE) for additional details.
