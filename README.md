@@ -31,7 +31,7 @@ The code can also be directly used in Google Colab.
 
 ## Examples of Applications:
 In the paper, we used the Titanic dataset, a well-known dataset containing demographic and survival information about passengers aboard the Titanic. This dataset has a hierarchical structure suitable for RIT visualization. The results can be found below:
-<img src="images/titanic.png" alt="Titanic Visualization" style="width:60%;"/>
+<img src="images/titanic.png" alt="Titanic Visualization" style="width:30%;"/>
 
 This application showcases RIT’s potential for presenting structured datasets in a format that is both compact and perceptually informative.
 
